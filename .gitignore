@@ -12,6 +12,7 @@ config/roughlyenoughitems/pinyin.properties
 config/roughlyenoughitems/pinyin_double.properties
 config/sound_physics_remastered/occlusion.properties
 config/sound_physics_remastered/reflectivity.properties
+config/roughlyenoughitems/favorites.json5
 
 # root files
 heracles_options.json
