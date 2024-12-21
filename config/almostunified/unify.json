@@ -1,0 +1,123 @@
+{
+    "modPriorities": [
+        "minecraft",
+        "kubejs",
+        "create",
+        "oreganized",
+        "galosphere",
+        "spelunkery",
+        "malum",
+        "iceandfire",
+        "createaddition",
+        "ad_astra"
+    ],
+    "stoneStrata": [
+        "stone",
+        "nether",
+        "deepslate",
+        "granite",
+        "diorite",
+        "andesite",
+        "tuff",
+        "glacio",
+        "venus",
+        "chert",
+        "mars",
+        "smooth_basalt",
+        "mercury",
+        "sandstone",
+        "moon"
+    ],
+    "tags": [
+        "c:{material}_nuggets",
+        "c:{material}_dusts",
+        "c:{material}_gears",
+        "c:{material}_gems",
+        "c:{material}_ingots",
+        "c:{material}_raw_materials",
+        "c:{material}_ores",
+        "c:{material}_plates",
+        "c:{material}_rods",
+        "c:{material}_blocks",
+        "c:{material}_wires",
+        "c:raw_{material}_ores",
+        "c:raw_{material}_blocks",
+        "c:raw_{material}_storage_blocks"
+    ],
+    "materials": [
+        "aeternium",
+        "aluminum",
+        "amber",
+        "apatite",
+        "bitumen",
+        "brass",
+        "bronze",
+        "charcoal",
+        "chrome",
+        "cinnabar",
+        "coal",
+        "coal_coke",
+        "cobalt",
+        "constantan",
+        "copper",
+        "diamond",
+        "electrum",
+        "elementium",
+        "emerald",
+        "enderium",
+        "fluorite",
+        "gold",
+        "graphite",
+        "invar",
+        "iridium",
+        "iron",
+        "lapis",
+        "lead",
+        "lumium",
+        "mithril",
+        "netherite",
+        "nickel",
+        "obsidian",
+        "osmium",
+        "peridot",
+        "platinum",
+        "potassium_nitrate",
+        "ruby",
+        "sapphire",
+        "signalum",
+        "silver",
+        "steel",
+        "sulfur",
+        "tin",
+        "tungsten",
+        "uranium",
+        "zinc"
+    ],
+    "priorityOverrides": {},
+    "customTags": {},
+    "tagOwnerships": {
+        "c:silver_ingots": [
+            "c:ingots/silver"
+        ],
+        "c:silver_blocks": [
+            "c:storage_blocks/silver"
+        ],
+        "c:silver_nuggets": [
+            "c:nuggets/silver"
+        ],
+        "c:copper_nuggets": [
+            "c:nuggets/copper"
+        ]
+    },
+    "itemTagInheritanceMode": "ALLOW",
+    "itemTagInheritance": {},
+    "blockTagInheritanceMode": "ALLOW",
+    "blockTagInheritance": {},
+    "ignoredTags": [],
+    "ignoredItems": [],
+    "ignoredRecipeTypes": [
+        "cucumber:shaped_tag"
+    ],
+    "ignoredRecipes": [],
+    "itemsHidingJeiRei": false
+}

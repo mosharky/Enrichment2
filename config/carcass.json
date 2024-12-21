@@ -1,0 +1,10 @@
+{
+  "fallIntoVoid": false,
+  "carcassForceDespawnTime": -1,
+  "emptyCarcassDespawnTime": 600,
+  "onlyOwnerAccess": true,
+  "onlyOwnerAccessUnlessSkeleton": false,
+  "skeletonAge": 72000,
+  "alwaysSpawnCarcassFacingDown": false,
+  "spawnTombstoneOnShovelCarcass": true
+}

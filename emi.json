@@ -1,0 +1,92 @@
+{
+  "favorites": [
+    {
+      "stack": "item:spelunkery:wooden_channel"
+    },
+    {
+      "stack": "item:spelunkery:wooden_sluice",
+      "recipe": "spelunkery:wooden_sluice"
+    }
+  ],
+  "lookup_history": [
+    "item:spelunkery:wooden_sluice",
+    {
+      "type": "fluid",
+      "id": "spelunkery:spring_water",
+      "amount": 81000
+    },
+    "item:spelunkery:spring_water_bucket",
+    "item:spelunkery:rock_salt",
+    "item:galosphere:pink_salt_shard",
+    "item:spelunkery:salt",
+    "item:spelunkery:basalt_pebble",
+    "item:galosphere:pink_salt_lamp",
+    "item:spelunkery:salt_lamp",
+    "item:spelunkery:rock_salt_block",
+    "item:spectrum:draconic_twinsword{Damage:0}",
+    {
+      "type": "item",
+      "id": "createaddition:electrum_wire",
+      "amount": 2
+    },
+    "item:createaddition:electrum_sheet",
+    "item:createaddition:electrum_ingot",
+    "#item:c:electrum_ingots",
+    "item:oreganized:electrum_axe{Damage:12}",
+    "item:betterend:end_stone_smelter",
+    "item:oreganized:lead_ingot",
+    "item:oreganized:lead_ore",
+    "item:spelunkery:tuff_silver_ore",
+    "item:minecraft:diamond",
+    "item:betterend:terminite_nugget",
+    "item:malum:copper_nugget",
+    "item:create:copper_nugget",
+    "item:iceandfire:copper_nugget",
+    "item:minecraft:netherite_upgrade_smithing_template",
+    "item:minecraft:powered_rail",
+    "item:minecraft:rail",
+    "item:spelunkery:wooden_rail",
+    "item:create:wheat_flour",
+    "item:create:dough",
+    "item:minecraft:bread",
+    "item:natures_spirit:coconut",
+    "item:ecologics:coconut_slice",
+    "item:natures_spirit:coconut_shell",
+    "item:natures_spirit:young_coconut_shell",
+    "item:farmersdelight:tree_bark",
+    {
+      "type": "item",
+      "id": "immersive_weathering:natures_spirit/ghaf_bark",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "id": "immersive_weathering:oak_bark",
+      "amount": 2
+    },
+    "item:immersive_weathering:natures_spirit/joshua_bark",
+    "item:betternether:nether_sakura_bark",
+    "item:immersive_weathering:natures_spirit/olive_bark",
+    "item:immersive_weathering:natures_spirit/palo_verde_bark",
+    "item:immersive_weathering:spectrum/green_bark",
+    "item:immersive_weathering:bountifulfares/walnut_bark",
+    "item:immersive_weathering:bountifulfares/hoary_bark",
+    "item:immersive_weathering:spectrum/lime_bark",
+    "item:immersive_weathering:acacia_bark",
+    "item:immersive_weathering:dark_oak_bark",
+    "item:immersive_weathering:betternether/wart_scales",
+    "item:immersive_weathering:betternether/willow_scales",
+    "item:immersive_weathering:spectrum/light_blue_bark",
+    "item:immersive_weathering:spectrum/magenta_bark",
+    "item:immersive_weathering:spectrum/white_bark",
+    "item:immersive_weathering:spectrum/orange_bark"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
