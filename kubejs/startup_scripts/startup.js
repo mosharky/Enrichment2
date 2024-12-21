@@ -3,6 +3,7 @@
 global.fullRemovals = [
     /spelunkery:.*rock_salt.*/,
     'spelunkery:salt_lamp',
+    /hearth_and_home:.*chimney/,
 
     // coconut
     'dramaticdoors:short_eco_coconut_door',
