@@ -1,6 +1,8 @@
 // array of all items to fully remove (recipes, tags, REI)
 // accepts string or regex
 global.fullRemovals = [
+    // testing access to push
+
     /spelunkery:.*rock_salt.*/,
     'spelunkery:salt_lamp',
     /hearth_and_home:.*chimney/,
