@@ -1,0 +1,11 @@
+* text=auto
+*.js text eol=crlf
+*.sass text eol=crlf
+*.json text eol=crlf
+*.css text eol=crlf
+*.html text eol=crlf
+*.htm text eol=crlf
+*.toml text eol=crlf
+*.json5 text eol=crlf
+*.jsonc text eol=crlf
+*.yaml text eol=crlf
