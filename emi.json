@@ -1,6 +1,8 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:charm:colored_glint_smithing_template",
+    "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"minecraft:protection\",lvl:1s}]}",
     "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"spellbound:warlike\",lvl:3s}]}",
     "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"spellbound:rock_collecting\",lvl:1s}]}",
     "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"extra_enchantments:burning_thorns\",lvl:3s}]}",
