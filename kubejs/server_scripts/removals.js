@@ -13,7 +13,6 @@ function removals(e) {
         'farmersdelight:bread_from_smelting',
         'farmersdelight:bread_from_smoking',
         'ad_astra:iron_rod',
-        /qu-enchantments:rune_*/,
     ]
 
     idRemovals.forEach(removal => {

@@ -21,5 +21,6 @@ global.fullRemovals = [
     'galosphere:raw_silver',
     'galosphere:raw_silver_block',
     'galosphere:deepslate_silver_ore',
-    /(galosphere|iceandfire):silver_(ingot|nugget|block|ore)/
+    /(galosphere|iceandfire):silver_(ingot|nugget|block|ore)/,
+    /qu-enchantments:rune_*/
 ]
