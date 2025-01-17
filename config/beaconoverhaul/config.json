@@ -5,7 +5,9 @@
         "minecraft:gold_block": "(blocks)^0.95 * 0.5",
         "minecraft:amethyst_block": "min(blocks, 8) * 8",
         "minecraft:emerald_block": "(blocks)^0.95",
-        "minecraft:diamond_block": "(blocks)^0.75 * 5"
+        "minecraft:diamond_block": "(blocks)^0.75 * 5",
+        "minecraft:redstone_block": "(blocks)^0.85 * 1.5",
+        "minecraft:lapis_block": "(blocks)^0.85 * 1"
     },
     "multiplicationModifiers": {
         "minecraft:netherite_block": "1 + (blocks * 0.05)"
@@ -27,7 +29,9 @@
         "minecraft:amethyst_block",
         "minecraft:emerald_block",
         "minecraft:diamond_block",
-        "minecraft:netherite_block"
+        "minecraft:netherite_block",
+        "minecraft:redstone_block",
+        "minecraft:lapis_block"
     ],
     "beaconEffectsByTier": {
         "tierOne": [
@@ -53,7 +57,7 @@
     },
     "beaconUpdateDelay": "PT4S",
     "initialBeaconUpdateDelay": "PT0.500S",
-    "effectParticles": false,
+    "effectParticles": true,
     "redirectionHorizontalMoveLimit": 64,
     "allowTintedGlassTransparency": true,
     "beamUpdateFrequency": 4
