@@ -1,0 +1,60 @@
+{
+    "additionModifiers": {
+        "minecraft:copper_block": "(blocks)^0.45 * 2",
+        "minecraft:iron_block": "(blocks)^0.6 * 2",
+        "minecraft:gold_block": "(blocks)^0.95 * 0.5",
+        "minecraft:amethyst_block": "min(blocks, 8) * 8",
+        "minecraft:emerald_block": "(blocks)^0.95",
+        "minecraft:diamond_block": "(blocks)^0.75 * 5"
+    },
+    "multiplicationModifiers": {
+        "minecraft:netherite_block": "1 + (blocks * 0.05)"
+    },
+    "range": "min(10 + pts * 2, 4096)",
+    "duration": "10 + pts / 15",
+    "primaryAmplifier": "if(pts > 256, if(pts > 512, 3, 2), 1) + isPotent",
+    "secondaryAmplifier": "1",
+    "maxBeaconLayers": 6,
+    "levelOneStatusEffects": [
+        "minecraft:fire_resistance",
+        "minecraft:slow_falling",
+        "minecraft:night_vision"
+    ],
+    "beaconBaseBlocks": [
+        "minecraft:copper_block",
+        "minecraft:iron_block",
+        "minecraft:gold_block",
+        "minecraft:amethyst_block",
+        "minecraft:emerald_block",
+        "minecraft:diamond_block",
+        "minecraft:netherite_block"
+    ],
+    "beaconEffectsByTier": {
+        "tierOne": [
+            "minecraft:speed",
+            "minecraft:haste"
+        ],
+        "tierTwo": [
+            "minecraft:resistance",
+            "minecraft:jump_boost",
+            "beaconoverhaul:long_reach"
+        ],
+        "tierThree": [
+            "minecraft:strength",
+            "beaconoverhaul:nutrition",
+            "minecraft:health_boost"
+        ],
+        "secondaryEffects": [
+            "minecraft:regeneration",
+            "minecraft:fire_resistance",
+            "minecraft:slow_falling",
+            "minecraft:night_vision"
+        ]
+    },
+    "beaconUpdateDelay": "PT4S",
+    "initialBeaconUpdateDelay": "PT0.500S",
+    "effectParticles": false,
+    "redirectionHorizontalMoveLimit": 64,
+    "allowTintedGlassTransparency": true,
+    "beamUpdateFrequency": 4
+}
