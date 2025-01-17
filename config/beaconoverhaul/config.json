@@ -14,13 +14,11 @@
         "ad_astra:ostrum_block": "(blocks)^0.85 * 2.5",
         "ad_astra:calorite_block": "(blocks)^0.85 * 2.5",
         "amethyst_imbuement:berly_copper_block": "(blocks)^0.6 * 2",
-        "betterend:aeternium_block": "(blocks)^0.85 * 4",
         "betterend:terminite_block": "(blocks)^0.9 * 6",
         "betterend:thallasium_block": "(blocks)^0.95 * 6",
         "betternether:cincinnasite_forged": "(blocks)^0.75 * 2",
         "botania:manasteel_block": "(blocks)^0.7 * 2.5",
         "botania:elementium_block": "(blocks)^0.85 * 3",
-        "botania:terrasteel_block": "(blocks)^0.85 * 6",
         "create:andesite_alloy_block": "(blocks)^0.45",
         "create:zinc_block": "(blocks)^0.55 * 2",
         "create:brass_block": "(blocks)^0.6 * 2",
@@ -40,7 +38,9 @@
         "twilightforest:knightmetal_block": "(blocks)^0.75 * 2"
     },
     "multiplicationModifiers": {
-        "minecraft:netherite_block": "1 + (blocks * 0.05)"
+        "minecraft:netherite_block": "1 + (blocks * 0.05)",
+        "betterend:aeternium_block": "1 + (blocks * 0.75)",
+        "botania:terrasteel_block": "1 + (blocks * 0.05)"
     },
     "range": "min(10 + pts * 2, 4096)",
     "duration": "10 + pts / 15",
