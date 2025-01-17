@@ -6,15 +6,51 @@
   //        a spread factor of 1 means all structure's placement are not modified (useful if you want to use only custom spread factors)
   //        a spread factor above 1 means all structures are rarer
   //        a spread factor below 1 means all structure are more common
-  "spreadFactor": 2,
+  "spreadFactor": 1,
 
   // this is a list of custom spread factors
   "customSpreadFactors": [
     // example of the mansion being doubled in rarity (the mod's default)
     {
-      "structure": "minecraft:mansion",
+      "structure": "minecraft:village_desert",
       "factor": 2
     },
+    {
+      "structure": "minecraft:village_plains",
+      "factor": 2
+    },
+    {
+      "structure": "minecraft:village_savanna",
+      "factor": 2
+    },
+    {
+      "structure": "minecraft:village_snowy",
+      "factor": 2
+    },
+    {
+      "structure": "minecraft:village_taiga",
+      "factor": 2
+    },
+    {
+      "structure": "natures_spirit:village_adobe",
+      "factor": 2
+    },
+    {
+      "structure": "natures_spirit:village_coconut",
+      "factor": 2
+    },
+    {
+      "structure": "natures_spirit:village_cypress",
+      "factor": 2
+    },
+    {
+      "structure": "natures_spirit:village_wisteria",
+      "factor": 2
+    },
+    {
+      "structure": "ribbits:ribbit_village",
+      "factor": 2
+    }
     // add the structures you want to modify in the format:
     // {
     //     "structure": "namespace:structure_name",

@@ -10,12 +10,5 @@
   "dontShowAll": [
     "minecraft:",
     "dimdungeons:"
-  ],
-  "dontShow": [
-    "minecraft:plains_village",
-    "minecraft:desert_village",
-    "iceandfire:mausoleum",
-    "friendsandfoes:iceologer_cabin",
-    "dimdoors:enclosed_gateway"
   ]
 }
