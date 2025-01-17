@@ -3,7 +3,6 @@
         "minecraft:copper_block": "(blocks)^0.45 * 2",
         "minecraft:iron_block": "(blocks)^0.6 * 2",
         "minecraft:gold_block": "(blocks)^0.95 * 0.5",
-        "minecraft:amethyst_block": "min(blocks, 8) * 8",
         "minecraft:emerald_block": "(blocks)^0.95",
         "minecraft:diamond_block": "(blocks)^0.75 * 5",
         "minecraft:redstone_block": "(blocks)^0.85 * 1.5",
@@ -35,7 +34,14 @@
         "oreganized:electrum_block": "(blocks)^0.75 * 2.5",
         "twilightforest:ironwood_block": "(blocks)^0.7 * 2",
         "twilightforest:fiery_block": "(blocks)^0.7 * 2",
-        "twilightforest:knightmetal_block": "(blocks)^0.75 * 2"
+        "twilightforest:knightmetal_block": "(blocks)^0.75 * 2",
+        "minecraft:amethyst_block": "min(blocks, 8) * 8",
+        "minecraft:calcite": "min(blocks, 6) * 5",
+        "ae2:quartz_block": "min(blocks, 8) * 7",
+        "galosphere:allurite_block": "min(blocks, 10) * 6",
+        "galosphere:lumiere_block": "min(blocks, 6) * 10",
+        "galosphere:pink_salt": "min(blocks, 5) * 5",
+        "malum:block_of_blazing_quartz": "min(blocks, 10) * 10"
     },
     "multiplicationModifiers": {
         "minecraft:netherite_block": "1 + (blocks * 0.05)",
@@ -90,7 +96,13 @@
         "oreganized:lead_block",
         "oreganized:electrum_block",
         "twilightforest:ironwood_block",
-        "twilightforest:knightmetal_block"
+        "twilightforest:knightmetal_block",
+        "minecraft:calcite",
+        "ae2:quartz_block",
+        "galosphere:allurite_block",
+        "galosphere:lumiere_block",
+        "galosphere:pink_salt",
+        "malum:block_of_blazing_quartz"
     ],
     "beaconEffectsByTier": {
         "tierOne": [
