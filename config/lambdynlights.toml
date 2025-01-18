@@ -22,114 +22,170 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
-				chicken = true
-				sniffer = true
+				zombie_horse = true
 				bee = true
 				axolotl = true
 				cow = true
-				fox = true
-				tropical_fish = true
-				slime = true
 				pig = true
 				allay = true
-				pillager = true
 				skeleton = true
-				iron_golem = true
 				bat = true
 				frog = true
 				rabbit = true
-				cat = true
-				zombie = true
+				silverfish = true
 				armor_stand = true
-				sheep = true
-				player = true
+				drowned = true
+				experience_orb = true
 				item = true
 				stray = true
-				villager = true
-				wolf = true
-				skeleton_horse = true
+				turtle = true
 				salmon = true
-				zombie_villager = true
-				tnt_minecart = true
 				goat = true
 				ocelot = true
 				furnace_minecart = true
-				polar_bear = true
+				item_frame = true
 				horse = true
+				vindicator = true
 				minecart = true
-				cave_spider = true
+				evoker = true
 				glow_squid = true
-				witch = true
 				glow_item_frame = false
 				squid = true
-				spider = true
+				parrot = true
 				creeper = true
 				enderman = true
+				chicken = true
+				sniffer = true
+				donkey = true
+				fox = true
+				tropical_fish = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				cat = true
+				zombie = true
+				sheep = true
+				player = true
+				illusioner = true
+				villager = true
+				wolf = true
+				skeleton_horse = true
+				zombie_villager = true
+				tnt_minecart = true
+				polar_bear = true
+				painting = true
+				cave_spider = true
+				witch = true
+				spider = true
 
 			[light_sources.settings.entities.crittersandcompanions]
 				dragonfly = true
 				jumping_spider = true
 				leaf_insect = true
 				shima_enaga = true
+				koi_fish = true
 				ferret = true
 				otter = true
 
 			[light_sources.settings.entities.endermanoverhaul]
+				savanna_enderman = true
 				ice_spikes_enderman = true
 				cave_enderman = true
+				flower_fields_enderman = true
+				desert_enderman = true
 				snowy_enderman = true
+				dark_oak_enderman = true
+				badlands_enderman = true
 
 			[light_sources.settings.entities.mutantmonsters]
 				mutant_creeper = true
+				mutant_skeleton = true
+				mutant_zombie = true
 
 			[light_sources.settings.entities.snowyspirit]
 				gingerbread_golem = true
 
 			[light_sources.settings.entities.creeperoverhaul]
 				bamboo_creeper = true
+				snowy_creeper = true
 				badlands_creeper = true
+				dark_oak_creeper = true
+				desert_creeper = true
 				dripstone_creeper = true
 				cave_creeper = true
+				beach_creeper = true
 				savannah_creeper = true
+				spruce_creeper = true
 
 			[light_sources.settings.entities.lootr]
 				lootr_minecart = true
 
 			[light_sources.settings.entities.iceandfire]
 				pixie = true
-				ice_dragon = true
 				lightning_dragon = true
-				dragon_multipart = true
+				hippocampus = true
+				myrmex_queen = true
+				fire_dragon_charge = true
+				hippogryph = true
 				troll = true
+				ice_dragon_charge = true
 				fire_dragon = true
+				cylcops_multipart = true
+				myrmex_soldier = true
+				ice_dragon = true
+				ghost = true
+				deathworm = true
+				multipart = true
+				dragon_multipart = true
+				cyclops = true
 				amphithere = true
 				lightning_dragon_charge = true
+				myrmex_worker = true
+
+			[light_sources.settings.entities.bosses_of_mass_destruction]
+				lich = true
+				soul_star = true
+
+			[light_sources.settings.entities.illagerinvasion]
+				alchemist = true
+				provoker = true
+				archivist = true
+				basher = true
+				marauder = true
 
 			[light_sources.settings.entities.hamsters]
 				hamster = true
 
 			[light_sources.settings.entities.naturalist]
 				deer = true
-				zebra = true
 				snail = true
-				canary = true
-				firefly = true
+				alligator = true
 				rhino = true
 				bluejay = true
-				coral_snake = true
 				snake = true
-				lion = true
-				vulture = true
 				robin = true
 				boar = true
-				bass = true
+				tortoise = true
 				duck = true
 				butterfly = true
-				giraffe = true
 				bear = true
 				sparrow = true
 				lizard = true
+				zebra = true
+				rattlesnake = true
+				canary = true
+				firefly = true
+				hippo = true
+				coral_snake = true
+				cardinal = true
+				lion = true
+				vulture = true
+				bass = true
+				giraffe = true
 				finch = true
+
+			[light_sources.settings.entities.charm]
+				moobloom = true
 
 			[light_sources.settings.entities.ecologics]
 				squirrel = true
@@ -137,6 +193,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.create]
 				stationary_contraption = true
+				contraption = true
 
 			[light_sources.settings.entities.caligo]
 				strow = true
@@ -145,12 +202,21 @@ mode = "fancy"
 
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
+				moobloom = true
+				mauler = true
 				iceologer = true
+				crab = true
 				rascal = true
+
+			[light_sources.settings.entities.spider_caves]
+				black_recluse = true
 
 			[light_sources.settings.entities.dungeonnowloading]
 				spawner_carrier = true
 				chaos_spawner = true
+
+			[light_sources.settings.entities.amethyst_imbuement]
+				sardonyx_fragment = true
 
 			[light_sources.settings.entities.yungscavebiomes]
 				ice_cube = true
