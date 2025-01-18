@@ -1,0 +1,160 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				sniffer = true
+				bee = true
+				axolotl = true
+				cow = true
+				fox = true
+				tropical_fish = true
+				slime = true
+				pig = true
+				allay = true
+				pillager = true
+				skeleton = true
+				iron_golem = true
+				bat = true
+				frog = true
+				rabbit = true
+				cat = true
+				zombie = true
+				armor_stand = true
+				sheep = true
+				player = true
+				item = true
+				stray = true
+				villager = true
+				wolf = true
+				skeleton_horse = true
+				salmon = true
+				zombie_villager = true
+				tnt_minecart = true
+				goat = true
+				ocelot = true
+				furnace_minecart = true
+				polar_bear = true
+				horse = true
+				minecart = true
+				cave_spider = true
+				glow_squid = true
+				witch = true
+				glow_item_frame = false
+				squid = true
+				spider = true
+				creeper = true
+				enderman = true
+
+			[light_sources.settings.entities.crittersandcompanions]
+				dragonfly = true
+				jumping_spider = true
+				leaf_insect = true
+				shima_enaga = true
+				ferret = true
+				otter = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				ice_spikes_enderman = true
+				cave_enderman = true
+				snowy_enderman = true
+
+			[light_sources.settings.entities.mutantmonsters]
+				mutant_creeper = true
+
+			[light_sources.settings.entities.snowyspirit]
+				gingerbread_golem = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				bamboo_creeper = true
+				badlands_creeper = true
+				dripstone_creeper = true
+				cave_creeper = true
+				savannah_creeper = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.iceandfire]
+				pixie = true
+				ice_dragon = true
+				lightning_dragon = true
+				dragon_multipart = true
+				troll = true
+				fire_dragon = true
+				amphithere = true
+				lightning_dragon_charge = true
+
+			[light_sources.settings.entities.hamsters]
+				hamster = true
+
+			[light_sources.settings.entities.naturalist]
+				deer = true
+				zebra = true
+				snail = true
+				canary = true
+				firefly = true
+				rhino = true
+				bluejay = true
+				coral_snake = true
+				snake = true
+				lion = true
+				vulture = true
+				robin = true
+				boar = true
+				bass = true
+				duck = true
+				butterfly = true
+				giraffe = true
+				bear = true
+				sparrow = true
+				lizard = true
+				finch = true
+
+			[light_sources.settings.entities.ecologics]
+				squirrel = true
+				penguin = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
+
+			[light_sources.settings.entities.caligo]
+				strow = true
+				deep_strow = true
+				coppice = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+				iceologer = true
+				rascal = true
+
+			[light_sources.settings.entities.dungeonnowloading]
+				spawner_carrier = true
+				chaos_spawner = true
+
+			[light_sources.settings.entities.yungscavebiomes]
+				ice_cube = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+

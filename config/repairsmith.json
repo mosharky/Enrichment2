@@ -1,0 +1,8 @@
+{
+  "durabilityPerEmerald": 30,
+  "costExp": 0.7,
+  "maxOffers": 5,
+  "durabilityPerPlayerXp": 50,
+  "durabilityPerVillagerXp": 20,
+  "xpExp": 0.6
+}
