@@ -280,12 +280,16 @@
       "factor": 10
     },
     {
-      "structure": "morelapis:lapis_hut",
-      "factor": 20
+      "structure": "ad_astra:oil_well",
+      "factor": 10
     },
     {
-      "structure": "iceandfire:mausoleum",
-      "factor": 100
+      "structure": "betterarcheology:villager_grave",
+      "factor": 10
+    },
+    {
+      "structure": "morelapis:lapis_hut",
+      "factor": 20
     }
   ]
 }
