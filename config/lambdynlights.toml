@@ -28,6 +28,7 @@ mode = "fancy"
 				axolotl = true
 				arrow = true
 				cow = true
+				magma_cube = true
 				pig = true
 				allay = true
 				skeleton = true
@@ -35,6 +36,7 @@ mode = "fancy"
 				bat = true
 				frog = true
 				husk = true
+				hoglin = true
 				camel = true
 				rabbit = true
 				silverfish = true
@@ -49,6 +51,7 @@ mode = "fancy"
 				salmon = true
 				wither_skeleton = true
 				wandering_trader = true
+				piglin_brute = true
 				goat = true
 				ocelot = true
 				furnace_minecart = true
@@ -74,8 +77,12 @@ mode = "fancy"
 				pillager = true
 				iron_golem = true
 				area_effect_cloud = true
+				zombified_piglin = true
+				piglin = true
+				blaze = true
 				cat = true
 				zombie = true
+				ghast = true
 				sheep = true
 				player = true
 				illusioner = true
@@ -87,6 +94,7 @@ mode = "fancy"
 				tnt_minecart = true
 				elder_guardian = true
 				polar_bear = true
+				strider = true
 				painting = true
 				cave_spider = true
 				witch = true
@@ -94,6 +102,7 @@ mode = "fancy"
 				spider = true
 
 			[light_sources.settings.entities.endermanoverhaul]
+				crimson_forest_enderman = true
 				savanna_enderman = true
 				ice_spikes_enderman = true
 				cave_enderman = true
@@ -159,6 +168,14 @@ mode = "fancy"
 				giraffe = true
 				elephant = true
 				finch = true
+
+			[light_sources.settings.entities.betternether]
+				firefly = true
+				flying_pig = true
+				hydrogen_jellyfish = true
+				skull = true
+				jungle_skeleton = true
+				naga = true
 
 			[light_sources.settings.entities.immersive_aircraft]
 				airship = true
