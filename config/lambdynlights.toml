@@ -69,6 +69,7 @@ mode = "fancy"
 				enderman = true
 				chicken = true
 				sniffer = true
+				ravager = true
 				donkey = true
 				fox = true
 				tropical_fish = true

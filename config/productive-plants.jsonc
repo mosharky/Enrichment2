@@ -1,0 +1,26 @@
+{
+    "maturity-effect-enabled": true,
+    // This should be the identifier of a Minecraft or mod particle effect.
+    "maturity-effect-identifier": "minecraft:happy_villager",
+    /*
+     * This determines the amount of particle instances spawned on each block per detection tick.
+     * Range: 1 - 10
+     */
+    "maturity-effect-intensity": 1,
+    /*
+     * This determines the maximum random distance from the center of the mature crop the particle can appear.
+     * Range: 0.0 - 1.5
+     */
+    "maturity-effect-spread": 0.35,
+    // This is always temporarily disabled while sneaking.
+    "block-immature-harvesting": true,
+    // This setting must be enabled on the server to take effect.
+    "block-trampling": true,
+    "supported-plants": {
+        // This includes regular Minecraft or mod provided crop blocks, such as wheat and carrots.
+        "support-regular-crops": true,
+        "support-nether-warts": true,
+        // This includes the stems of blocks such as melons or pumpkins.
+        "support-attached-stems": false
+    }
+}
