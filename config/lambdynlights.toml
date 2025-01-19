@@ -187,6 +187,10 @@ mode = "fancy"
 			[light_sources.settings.entities.charm]
 				moobloom = true
 
+			[light_sources.settings.entities.immersive_aircraft]
+				airship = true
+				warship = true
+
 			[light_sources.settings.entities.ribbits]
 				ribbit = true
 
