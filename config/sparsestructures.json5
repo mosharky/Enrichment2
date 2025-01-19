@@ -224,6 +224,14 @@
       "factor": 3
     },
     {
+      "structure": "stoneholm:underground_village",
+      "factor": 3
+    },
+    {
+      "structure": "underground_bunkers:underground_bunker",
+      "factor": 3
+    },
+    {
       "structure": "snowyspirit:gingerbread_house",
       "factor": 5
     },

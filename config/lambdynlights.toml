@@ -46,6 +46,8 @@ mode = "fancy"
 				stray = true
 				turtle = true
 				salmon = true
+				wither_skeleton = true
+				wandering_trader = true
 				goat = true
 				ocelot = true
 				furnace_minecart = true
@@ -66,9 +68,11 @@ mode = "fancy"
 				donkey = true
 				fox = true
 				tropical_fish = true
+				chest_minecart = true
 				slime = true
 				pillager = true
 				iron_golem = true
+				area_effect_cloud = true
 				cat = true
 				zombie = true
 				sheep = true
@@ -88,17 +92,6 @@ mode = "fancy"
 				cod = true
 				spider = true
 
-			[light_sources.settings.entities.crittersandcompanions]
-				dragonfly = true
-				jumping_spider = true
-				leaf_insect = true
-				shima_enaga = true
-				koi_fish = true
-				dumbo_octopus = true
-				ferret = true
-				otter = true
-				sea_bunny = true
-
 			[light_sources.settings.entities.endermanoverhaul]
 				savanna_enderman = true
 				ice_spikes_enderman = true
@@ -110,15 +103,99 @@ mode = "fancy"
 				scarab = true
 				badlands_enderman = true
 
+			[light_sources.settings.entities.underground_jungle]
+				mossy_skeleton = true
+				jungle_zombie = true
+
 			[light_sources.settings.entities.mutantmonsters]
 				mutant_enderman = true
 				mutant_creeper = true
 				mutant_skeleton = true
 				mutant_zombie = true
 
+			[light_sources.settings.entities.additionaladditions]
+				glow_stick = true
+
 			[light_sources.settings.entities.snowyspirit]
 				gingerbread_golem = true
 				sled = true
+
+			[light_sources.settings.entities.illagerinvasion]
+				alchemist = true
+				provoker = true
+				archivist = true
+				basher = true
+				marauder = true
+
+			[light_sources.settings.entities.hamsters]
+				hamster = true
+
+			[light_sources.settings.entities.naturalist]
+				deer = true
+				snail = true
+				alligator = true
+				rhino = true
+				bluejay = true
+				snake = true
+				robin = true
+				boar = true
+				tortoise = true
+				duck = true
+				butterfly = true
+				bear = true
+				sparrow = true
+				lizard = true
+				zebra = true
+				rattlesnake = true
+				canary = true
+				firefly = true
+				hippo = true
+				coral_snake = true
+				cardinal = true
+				lion = true
+				vulture = true
+				bass = true
+				giraffe = true
+				elephant = true
+				finch = true
+
+			[light_sources.settings.entities.immersive_aircraft]
+				airship = true
+				warship = true
+
+			[light_sources.settings.entities.ribbits]
+				ribbit = true
+
+			[light_sources.settings.entities.ecologics]
+				squirrel = true
+				penguin = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
+				contraption = true
+				crafting_blueprint = true
+
+			[light_sources.settings.entities.dungeonnowloading]
+				spawner_carrier = true
+				chaos_spawner = true
+
+			[light_sources.settings.entities.yungscavebiomes]
+				ice_cube = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.crittersandcompanions]
+				dragonfly = true
+				jumping_spider = true
+				leaf_insect = true
+				shima_enaga = true
+				koi_fish = true
+				dumbo_octopus = true
+				ferret = true
+				otter = true
+				sea_bunny = true
+				red_panda = true
 
 			[light_sources.settings.entities.creeperoverhaul]
 				swamp_creeper = true
@@ -170,63 +247,8 @@ mode = "fancy"
 				lich = true
 				soul_star = true
 
-			[light_sources.settings.entities.illagerinvasion]
-				alchemist = true
-				provoker = true
-				archivist = true
-				basher = true
-				marauder = true
-
-			[light_sources.settings.entities.hamsters]
-				hamster = true
-
-			[light_sources.settings.entities.naturalist]
-				deer = true
-				snail = true
-				alligator = true
-				rhino = true
-				bluejay = true
-				snake = true
-				robin = true
-				boar = true
-				tortoise = true
-				duck = true
-				butterfly = true
-				bear = true
-				sparrow = true
-				lizard = true
-				zebra = true
-				rattlesnake = true
-				canary = true
-				firefly = true
-				hippo = true
-				coral_snake = true
-				cardinal = true
-				lion = true
-				vulture = true
-				bass = true
-				giraffe = true
-				elephant = true
-				finch = true
-
 			[light_sources.settings.entities.charm]
 				moobloom = true
-
-			[light_sources.settings.entities.immersive_aircraft]
-				airship = true
-				warship = true
-
-			[light_sources.settings.entities.ribbits]
-				ribbit = true
-
-			[light_sources.settings.entities.ecologics]
-				squirrel = true
-				penguin = true
-
-			[light_sources.settings.entities.create]
-				stationary_contraption = true
-				contraption = true
-				crafting_blueprint = true
 
 			[light_sources.settings.entities.caligo]
 				strow = true
@@ -244,17 +266,7 @@ mode = "fancy"
 			[light_sources.settings.entities.spider_caves]
 				black_recluse = true
 
-			[light_sources.settings.entities.dungeonnowloading]
-				spawner_carrier = true
-				chaos_spawner = true
-
 			[light_sources.settings.entities.amethyst_imbuement]
 				player_egg_entity = true
 				sardonyx_fragment = true
-
-			[light_sources.settings.entities.yungscavebiomes]
-				ice_cube = true
-
-			[light_sources.settings.entities.artifacts]
-				mimic = true
 

@@ -298,3 +298,4 @@ natures_spirit:flowering_shrubland
 !natures_spirit:woody_highlands,
 !natures_spirit:xeric_plains,
 !regions_unexplored:alpha_grove,
+!underground_jungle:underground_jungle,
