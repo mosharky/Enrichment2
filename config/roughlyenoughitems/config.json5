@@ -3,7 +3,7 @@
 		"favorites": [],
 		"hiddenFavorites": [],
 		"displayHistory": [],
-		"cheating": true,
+		"cheating": false,
 		"favoritesEnabled": true,
 		"reduceMotion": false,
 		"keyBindings": {
@@ -248,7 +248,8 @@
 					"ad_astra:cryo_freezing",
 					"ad_astra:nasa_workbench",
 					"roughlyenoughitems:plugins/information",
-					"minecraft:plugins/tag"
+					"minecraft:plugins/tag",
+					"rei-enchantment-info:rei_display_category"
 				],
 				"hiddenCategories": []
 			}

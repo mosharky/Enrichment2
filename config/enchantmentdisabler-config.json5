@@ -1,0 +1,59 @@
+{
+	"disablerEnabled": true,
+	"disabledEnchantments": [
+		"minecraft:mending",
+		"azurelib:incendiaryenchantment",
+		"cool_enchantments:double_jump",
+		"cool_enchantments:smelting_edge",
+		"enchantmentsplus:dualleap",
+		"enchantmentsplus:flashforge",
+		"enchantmentsplus:frostbite",
+		"enchantmentsplus:lifesteal",
+		"enchantery:soulbound",
+		"extended-enchanting:leeching",
+		"extended-enchanting:frost_aspect",
+		"extra_enchantments:burning_thorns",
+		"extra_enchantments:freezing_aspect",
+		"extra_enchantments:freezing_thorns",
+		"extra_enchantments:illagers_bane",
+		"extra_enchantments:hellwalker",
+		"extra_enchantments:electrifying_shot",
+		"incantationem:thunder",
+		"majruszenchantments:enlightenment",
+		"majruszenchantments:misanthrope",
+		"majruszenchantments:smelter",
+		"moborigins:ground_spikes",
+		"musuen:attraction",
+		"musuen:experiencing",
+		"musuen:reaching",
+		"spellbound:cave_in",
+		"spellbound:dullness",
+		"spellbound:hearty",
+		"spellbound:launching",
+		"spellbound:metabolising",
+		"qu-enchantments:freezing_aspect",
+		"qu-enchantments:leeching_aspect",
+		"qu-enchantments:molten_walker",
+		"qu-enchantments:lucky_miner",
+		"qu-enchantments:lightning_bound"
+	],
+	"maxLevelNest": {
+		"modifyMaxLevels": false,
+		"maxLevels": [
+			"minecraft:sharpness/5"
+		]
+	},
+	"tradesNest": {
+		"modifyEnchantedBookTradeUses": false,
+		"maxEnchantedBookTradeUses": 12,
+		"modifyEnchantedItemTradeUses": false,
+		"maxEnchantedItemTradeUses": 3,
+		"enchantedBookTradeRestockEnabled": true,
+		"enchantedItemTradeRestockEnabled": true
+	},
+	"enchantingTableNest": {
+		"enchantingTableEnabled": true,
+		"modifyLapisCost": false,
+		"lapisCostFormula": "id+1"
+	}
+}
