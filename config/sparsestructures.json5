@@ -24,30 +24,6 @@
     // tip : the same spread factors rules apply here
     // example of the mansion being doubled in rarity (the mod's default)
     {
-      "structure": "minecraft:ruined_portal",
-      "factor": 2
-    },
-    {
-      "structure": "minecraft:ruined_portal_desert",
-      "factor": 2
-    },
-    {
-      "structure": "minecraft:ruined_portal_jungle",
-      "factor": 2
-    },
-    {
-      "structure": "minecraft:ruined_portal_mountain",
-      "factor": 2
-    },
-    {
-      "structure": "minecraft:ruined_portal_ocean",
-      "factor": 2
-    },
-    {
-      "structure": "minecraft:ruined_portal_swamp",
-      "factor": 2
-    },
-    {
       "structure": "betterarcheology:buried_ruins_sand",
       "factor": 2
     },
@@ -244,10 +220,6 @@
       "factor": 3
     },
     {
-      "structure": "stoneholm:underground_village",
-      "factor": 3
-    },
-    {
       "structure": "underground_bunkers:underground_bunker",
       "factor": 3
     },
@@ -272,6 +244,30 @@
       "factor": 3
     },
     {
+      "structure": "ati_structures:ice_tribe",
+      "factor": 3
+    },
+    {
+      "structure": "ati_structures:nomadic_camp",
+      "factor": 3
+    },
+    {
+      "structure": "betterarcheology:archeologist_camp_grassy",
+      "factor": 3
+    },
+    {
+      "structure": "betterarcheology:archeologist_camp_redsand",
+      "factor": 3
+    },
+    {
+      "structure": "betterarcheology:archeologist_camp_sand",
+      "factor": 3
+    },
+    {
+      "structure": "verdantvibes:palm_campfire",
+      "factor": 3
+    },
+    {
       "structure": "ati_structures:tavern",
       "factor": 3
     },
@@ -285,6 +281,42 @@
     },
     {
       "structure": "illagerinvasion:illusioner_tower",
+      "factor": 5
+    },
+    {
+      "structure": "stoneholm:underground_village",
+      "factor": 5
+    },
+    {
+      "structure": "ati_structures:deepslate_keep",
+      "factor": 5
+    },
+    {
+      "structure": "ati_structures:dojo",
+      "factor": 5
+    },
+    {
+      "structure": "minecraft:ruined_portal",
+      "factor": 5
+    },
+    {
+      "structure": "minecraft:ruined_portal_desert",
+      "factor": 5
+    },
+    {
+      "structure": "minecraft:ruined_portal_jungle",
+      "factor": 5
+    },
+    {
+      "structure": "minecraft:ruined_portal_mountain",
+      "factor": 5
+    },
+    {
+      "structure": "minecraft:ruined_portal_ocean",
+      "factor": 5
+    },
+    {
+      "structure": "minecraft:ruined_portal_swamp",
       "factor": 5
     },
     {

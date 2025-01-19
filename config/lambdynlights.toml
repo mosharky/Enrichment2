@@ -26,6 +26,7 @@ mode = "fancy"
 				panda = true
 				bee = true
 				axolotl = true
+				zoglin = true
 				arrow = true
 				cow = true
 				magma_cube = true
@@ -83,6 +84,7 @@ mode = "fancy"
 				blaze = true
 				cat = true
 				zombie = true
+				guardian = true
 				ghast = true
 				sheep = true
 				player = true
@@ -136,6 +138,7 @@ mode = "fancy"
 				provoker = true
 				archivist = true
 				basher = true
+				necromancer = true
 				marauder = true
 
 			[light_sources.settings.entities.hamsters]
@@ -150,6 +153,7 @@ mode = "fancy"
 				snake = true
 				robin = true
 				boar = true
+				dragonfly = true
 				tortoise = true
 				duck = true
 				butterfly = true
@@ -236,11 +240,14 @@ mode = "fancy"
 				lootr_minecart = true
 
 			[light_sources.settings.entities.iceandfire]
+				stymphalian_bird = true
 				lightning_dragon = true
 				siren = true
 				fire_dragon_charge = true
+				hydra_multipart = true
 				ice_dragon_charge = true
 				cylcops_multipart = true
+				hydra = true
 				ghost = true
 				dragon_multipart = true
 				cyclops = true
@@ -276,6 +283,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
+				copper_golem = true
 				moobloom = true
 				mauler = true
 				iceologer = true
