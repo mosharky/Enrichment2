@@ -10,6 +10,18 @@
 
   // this is a list of custom spread factors
   "customSpreadFactors": [
+    // add the structures you want to modify in the format:
+    // {
+    //     "structure": "namespace:structure_name",
+    //     "factor": number
+    // },
+    // where "structure" is a structure_set or the name of a structure
+    // /!\ if you put the name of a structure, all structures in its set will be modified
+    // (example : "minecraft:village_plains" will modify all structures in the "villages" set)
+    // see https://minecraft.wiki/w/Tutorials/Custom_structures#Structure_Set for more info
+    //
+    // tip : you can dump all structure sets in a file by running the custom command /dumpstructuresets
+    // tip : the same spread factors rules apply here
     // example of the mansion being doubled in rarity (the mod's default)
     {
       "structure": "minecraft:ruined_portal",
@@ -65,6 +77,26 @@
     },
     {
       "structure": "aquamirae:ship",
+      "factor": 2
+    },
+    {
+      "structure": "ad_astra:mars_temple",
+      "factor": 2
+    },
+    {
+      "structure": "betterarcheology:light_temple",
+      "factor": 2
+    },
+    {
+      "structure": "betterarcheology:temple_jungle",
+      "factor": 2
+    },
+    {
+      "structure": "betterdeserttemples:desert_temple",
+      "factor": 2
+    },
+    {
+      "structure": "betterjungletemples:jungle_temple",
       "factor": 2
     },
     {
@@ -132,6 +164,46 @@
       "factor": 3
     },
     {
+      "structure": "integrated_villages:airship_village",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:cabin_village",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:kutcha_village",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:marketstead_village",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:mediterranean_village",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:mossy_mounds",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:oasis_village",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:pirate_village",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:quark/minka_village",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:tavern_village",
+      "factor": 3
+    },
+    {
       "structure": "natures_spirit:village_adobe",
       "factor": 3
     },
@@ -160,6 +232,10 @@
       "factor": 5
     },
     {
+      "structure": "illagerinvasion:illusioner_tower",
+      "factor": 5
+    },
+    {
       "structure": "iceandfire:pixie_village",
       "factor": 10
     },
@@ -176,11 +252,15 @@
       "factor": 10
     },
     {
-      "structure": "iceandfire:mausoleum",
+      "structure": "iceandfire:graveyard",
       "factor": 10
     },
     {
-      "structure": "iceandfire:graveyard",
+      "structure": "iceandfire:gorgon_temple",
+      "factor": 10
+    },
+    {
+      "structure": "iceandfire:cyclops_cave",
       "factor": 10
     },
     {
@@ -192,28 +272,20 @@
       "factor": 10
     },
     {
-      "structure": "morelapis:lapis_hut",
-      "factor": 10
-    },
-    {
       "structure": "iceandfire:myrmex_hive_desert",
       "factor": 10
     },
     {
       "structure": "iceandfire:myrmex_hive_jungle",
       "factor": 10
+    },
+    {
+      "structure": "morelapis:lapis_hut",
+      "factor": 20
+    },
+    {
+      "structure": "iceandfire:mausoleum",
+      "factor": 100
     }
-    // add the structures you want to modify in the format:
-    // {
-    //     "structure": "namespace:structure_name",
-    //     "factor": number
-    // },
-    // where "structure" is a structure_set or the name of a structure
-    // /!\ if you put the name of a structure, all structures in its set will be modified
-    // (example : "minecraft:village_plains" will modify all structures in the "villages" set)
-    // see https://minecraft.wiki/w/Tutorials/Custom_structures#Structure_Set for more info
-    //
-    // tip : you can dump all structure sets in a file by running the custom command /dumpstructuresets
-    // tip : the same spread factors rules apply here
   ]
 }

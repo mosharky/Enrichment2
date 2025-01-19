@@ -23,6 +23,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.minecraft]
 				zombie_horse = true
+				panda = true
 				bee = true
 				axolotl = true
 				arrow = true
@@ -30,14 +31,17 @@ mode = "fancy"
 				pig = true
 				allay = true
 				skeleton = true
+				llama = true
 				bat = true
 				frog = true
 				husk = true
+				camel = true
 				rabbit = true
 				silverfish = true
 				armor_stand = true
 				drowned = true
 				experience_orb = true
+				dolphin = true
 				item = true
 				stray = true
 				turtle = true
@@ -53,6 +57,7 @@ mode = "fancy"
 				glow_squid = true
 				glow_item_frame = false
 				squid = true
+				snowball = true
 				parrot = true
 				creeper = true
 				enderman = true
@@ -69,15 +74,18 @@ mode = "fancy"
 				sheep = true
 				player = true
 				illusioner = true
+				pufferfish = true
 				villager = true
 				wolf = true
 				skeleton_horse = true
 				zombie_villager = true
 				tnt_minecart = true
+				elder_guardian = true
 				polar_bear = true
 				painting = true
 				cave_spider = true
 				witch = true
+				cod = true
 				spider = true
 
 			[light_sources.settings.entities.crittersandcompanions]
@@ -86,8 +94,10 @@ mode = "fancy"
 				leaf_insect = true
 				shima_enaga = true
 				koi_fish = true
+				dumbo_octopus = true
 				ferret = true
 				otter = true
+				sea_bunny = true
 
 			[light_sources.settings.entities.endermanoverhaul]
 				savanna_enderman = true
@@ -97,49 +107,61 @@ mode = "fancy"
 				desert_enderman = true
 				snowy_enderman = true
 				dark_oak_enderman = true
+				scarab = true
 				badlands_enderman = true
 
 			[light_sources.settings.entities.mutantmonsters]
+				mutant_enderman = true
 				mutant_creeper = true
 				mutant_skeleton = true
 				mutant_zombie = true
 
 			[light_sources.settings.entities.snowyspirit]
 				gingerbread_golem = true
+				sled = true
 
 			[light_sources.settings.entities.creeperoverhaul]
+				swamp_creeper = true
 				bamboo_creeper = true
-				snowy_creeper = true
-				badlands_creeper = true
-				dark_oak_creeper = true
-				desert_creeper = true
-				dripstone_creeper = true
+				jungle_creeper = true
 				cave_creeper = true
 				beach_creeper = true
 				savannah_creeper = true
 				spruce_creeper = true
+				hills_creeper = true
+				snowy_creeper = true
+				badlands_creeper = true
+				ocean_creeper = true
+				dark_oak_creeper = true
+				desert_creeper = true
+				dripstone_creeper = true
 
 			[light_sources.settings.entities.lootr]
 				lootr_minecart = true
 
 			[light_sources.settings.entities.iceandfire]
-				pixie = true
 				lightning_dragon = true
-				hippocampus = true
-				myrmex_queen = true
+				siren = true
 				fire_dragon_charge = true
-				hippogryph = true
-				troll = true
 				ice_dragon_charge = true
-				fire_dragon = true
 				cylcops_multipart = true
-				myrmex_soldier = true
-				ice_dragon = true
 				ghost = true
-				deathworm = true
-				multipart = true
 				dragon_multipart = true
 				cyclops = true
+				sea_serpent = true
+				pixie = true
+				cockatrice = true
+				sea_serpent_bubbles = true
+				hippocampus = true
+				myrmex_queen = true
+				hippogryph = true
+				gorgon = true
+				troll = true
+				fire_dragon = true
+				myrmex_soldier = true
+				ice_dragon = true
+				deathworm = true
+				multipart = true
 				amphithere = true
 				lightning_dragon_charge = true
 				myrmex_worker = true
@@ -184,6 +206,7 @@ mode = "fancy"
 				vulture = true
 				bass = true
 				giraffe = true
+				elephant = true
 				finch = true
 
 			[light_sources.settings.entities.charm]
@@ -203,6 +226,7 @@ mode = "fancy"
 			[light_sources.settings.entities.create]
 				stationary_contraption = true
 				contraption = true
+				crafting_blueprint = true
 
 			[light_sources.settings.entities.caligo]
 				strow = true
