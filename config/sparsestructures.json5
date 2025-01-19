@@ -100,6 +100,26 @@
       "factor": 2
     },
     {
+      "structure": "ati_structures:ancient_temple",
+      "factor": 2
+    },
+    {
+      "structure": "ati_structures:fortified_temple",
+      "factor": 2
+    },
+    {
+      "structure": "ati_structures:rotting_temple",
+      "factor": 2
+    },
+    {
+      "structure": "ati_structures:haunted_ruin",
+      "factor": 2
+    },
+    {
+      "structure": "ati_structures:ruined_castle",
+      "factor": 2
+    },
+    {
       "structure": "minecraft:mansion",
       "factor": 3
     },
@@ -229,6 +249,30 @@
     },
     {
       "structure": "underground_bunkers:underground_bunker",
+      "factor": 3
+    },
+    {
+      "structure": "ati_structures:gnome_hut",
+      "factor": 3
+    },
+    {
+      "structure": "ati_structures:old_home",
+      "factor": 3
+    },
+    {
+      "structure": "ati_structures:villager_inn",
+      "factor": 3
+    },
+    {
+      "structure": "ati_structures:lighthouse",
+      "factor": 3
+    },
+    {
+      "structure": "ati_structures:manor",
+      "factor": 3
+    },
+    {
+      "structure": "ati_structures:tavern",
       "factor": 3
     },
     {
