@@ -2,6 +2,19 @@
   {
     "user": {
       "type": "player",
+      "name": "Legitch",
+      "uniqueId": "64906813-adac-4aa9-8ac9-f25dbb677102"
+    },
+    "time": 1735945102145,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/LsIjV7N314"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
       "name": "mo_mods",
       "uniqueId": "a1d46eed-e89e-49ba-8b72-2ccefe0e6a3e"
     },
