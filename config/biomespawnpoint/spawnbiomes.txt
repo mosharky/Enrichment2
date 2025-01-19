@@ -1,0 +1,8 @@
+// To generate missing and modded biomes in this list; create a new world once,
+// Any biome listed below without an ! at the start will be randomly chosen to spawn in,
+minecraft:flower_forest
+minecraft:meadow
+minecraft:cherry_grove
+minecraft:plains
+minecraft:sunflower_plains
+natures_spirit:flowering_shrubland

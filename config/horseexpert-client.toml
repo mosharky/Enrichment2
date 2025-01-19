@@ -1,5 +1,5 @@
 #Show speed and jump height for llamas. They have those attributes as they inherit all functionality from horses, but don't really use them for anything.
-all_llama_attributes = false
+all_llama_attributes = true
 #Percentage value below which a value is considered to be low when shown on statistics tooltips.
 #Range: 0.0 ~ 1.0
 low_value_percentage = 0.25
