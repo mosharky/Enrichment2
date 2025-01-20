@@ -160,10 +160,6 @@
       "factor": 3
     },
     {
-      "structure": "integrated_villages:airship_village",
-      "factor": 3
-    },
-    {
       "structure": "integrated_villages:cabin_village",
       "factor": 3
     },
@@ -272,6 +268,10 @@
       "factor": 3
     },
     {
+      "structure": "integrated_villages:airship_village",
+      "factor": 5
+    },
+    {
       "structure": "snowyspirit:gingerbread_house",
       "factor": 5
     },
@@ -369,6 +369,10 @@
     },
     {
       "structure": "betterarcheology:villager_grave",
+      "factor": 10
+    },
+    {
+      "structure": "integrated_stronghold:stronghold",
       "factor": 10
     },
     {

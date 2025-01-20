@@ -202,6 +202,7 @@ mode = "fancy"
 			[light_sources.settings.entities.create]
 				stationary_contraption = true
 				contraption = true
+				gantry_contraption = true
 				crafting_blueprint = true
 
 			[light_sources.settings.entities.dungeonnowloading]

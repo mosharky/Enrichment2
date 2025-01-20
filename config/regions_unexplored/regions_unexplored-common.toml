@@ -17,7 +17,7 @@
 
 [biome_toggles]
 	#overworld_biomes
-	toggle_alpha_grove = false
+	toggle_alpha_grove = true
 	toggle_arid_mountains = false
 	toggle_smouldering_woodland = false
 	toggle_autumnal_maple_forest = false
