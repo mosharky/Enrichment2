@@ -228,6 +228,9 @@ mode = "fancy"
 				sea_bunny = true
 				red_panda = true
 
+			[light_sources.settings.entities.sprout]
+				butterfly = true
+
 			[light_sources.settings.entities.creeperoverhaul]
 				swamp_creeper = true
 				bamboo_creeper = true
