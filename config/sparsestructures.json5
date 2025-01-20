@@ -96,6 +96,42 @@
       "factor": 2
     },
     {
+      "structure": "integrated_villages:cabin_village",
+      "factor": 2
+    },
+    {
+      "structure": "integrated_villages:kutcha_village",
+      "factor": 2
+    },
+    {
+      "structure": "integrated_villages:marketstead_village",
+      "factor": 2
+    },
+    {
+      "structure": "integrated_villages:mediterranean_village",
+      "factor": 2
+    },
+    {
+      "structure": "integrated_villages:mossy_mounds",
+      "factor": 2
+    },
+    {
+      "structure": "integrated_villages:oasis_village",
+      "factor": 2
+    },
+    {
+      "structure": "integrated_villages:pirate_village",
+      "factor": 2
+    },
+    {
+      "structure": "integrated_villages:quark/minka_village",
+      "factor": 2
+    },
+    {
+      "structure": "integrated_villages:tavern_village",
+      "factor": 2
+    },
+    {
       "structure": "minecraft:mansion",
       "factor": 3
     },
@@ -157,42 +193,6 @@
     },
     {
       "structure": "minecraft:village_taiga",
-      "factor": 3
-    },
-    {
-      "structure": "integrated_villages:cabin_village",
-      "factor": 3
-    },
-    {
-      "structure": "integrated_villages:kutcha_village",
-      "factor": 3
-    },
-    {
-      "structure": "integrated_villages:marketstead_village",
-      "factor": 3
-    },
-    {
-      "structure": "integrated_villages:mediterranean_village",
-      "factor": 3
-    },
-    {
-      "structure": "integrated_villages:mossy_mounds",
-      "factor": 3
-    },
-    {
-      "structure": "integrated_villages:oasis_village",
-      "factor": 3
-    },
-    {
-      "structure": "integrated_villages:pirate_village",
-      "factor": 3
-    },
-    {
-      "structure": "integrated_villages:quark/minka_village",
-      "factor": 3
-    },
-    {
-      "structure": "integrated_villages:tavern_village",
       "factor": 3
     },
     {
