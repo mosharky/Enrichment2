@@ -203,6 +203,7 @@
   "entries": {
     "wood_type": {
       "handcrafted.counter": true,
+      "villagersplus.horticulturist_table": true,
       "handcrafted.corner_trim": true,
       "friendsandfoes.beehive": true,
       "handcrafted.fancy_bed": true,

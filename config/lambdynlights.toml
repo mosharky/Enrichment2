@@ -52,6 +52,7 @@ mode = "fancy"
 				salmon = true
 				wither_skeleton = true
 				wandering_trader = true
+				vex = true
 				piglin_brute = true
 				goat = true
 				ocelot = true
@@ -59,6 +60,7 @@ mode = "fancy"
 				item_frame = true
 				horse = true
 				vindicator = true
+				phantom = true
 				minecart = true
 				evoker = true
 				glow_squid = true
@@ -112,6 +114,7 @@ mode = "fancy"
 				flower_fields_enderman = true
 				desert_enderman = true
 				snowy_enderman = true
+				coral_enderman = true
 				dark_oak_enderman = true
 				scarab = true
 				badlands_enderman = true
@@ -275,6 +278,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.charm]
 				moobloom = true
+				coral_squid = true
 
 			[light_sources.settings.entities.caligo]
 				strow = true
