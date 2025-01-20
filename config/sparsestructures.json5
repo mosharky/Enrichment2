@@ -268,10 +268,6 @@
       "factor": 3
     },
     {
-      "structure": "integrated_villages:airship_village",
-      "factor": 5
-    },
-    {
       "structure": "snowyspirit:gingerbread_house",
       "factor": 5
     },
@@ -318,6 +314,10 @@
     {
       "structure": "minecraft:ruined_portal_swamp",
       "factor": 5
+    },
+    {
+      "structure": "integrated_villages:airship_village",
+      "factor": 10
     },
     {
       "structure": "iceandfire:pixie_village",
