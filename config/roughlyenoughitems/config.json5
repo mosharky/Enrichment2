@@ -3,7 +3,7 @@
 		"favorites": [],
 		"hiddenFavorites": [],
 		"displayHistory": [],
-		"cheating": true,
+		"cheating": false,
 		"favoritesEnabled": true,
 		"reduceMotion": false,
 		"keyBindings": {
@@ -248,7 +248,9 @@
 					"ad_astra:cryo_freezing",
 					"ad_astra:nasa_workbench",
 					"roughlyenoughitems:plugins/information",
-					"minecraft:plugins/tag"
+					"minecraft:plugins/tag",
+					"amethyst_imbuement:imbuing_recipe",
+					"amethyst_imbuement:altar_recipe"
 				],
 				"hiddenCategories": []
 			}

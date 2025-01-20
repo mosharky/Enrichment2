@@ -7,7 +7,7 @@
     "iceandfire.dragon.animalsFear": true,
     "": {},
     "iceandfire.dragon.generate.skeletons": true,
-    "iceandfire.dragon.generate.skeletonChance": 0.0033333333333333335,
+    "iceandfire.dragon.generate.skeletonChance": 0.001,
     "iceandfire.dragon.generate.denGoldAmount": 0.25,
     "iceandfire.dragon.generate.oreRatio": 0.022222222222222223,
     "iceandfire.dragon.griefing": true,

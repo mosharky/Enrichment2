@@ -1,0 +1,383 @@
+// ### THE MOD REQUIRES A RESTART OF THE GAME TO APPLY CHANGES ###
+{
+  // this is the main spread factor (default is 2)
+  //
+  // tips : a spread factor can be a decimal number (such as 1.5)
+  //        a spread factor of 1 means all structure's placement are not modified (useful if you want to use only custom spread factors)
+  //        a spread factor above 1 means all structures are rarer
+  //        a spread factor below 1 means all structure are more common
+  "spreadFactor": 1,
+
+  // this is a list of custom spread factors
+  "customSpreadFactors": [
+    // add the structures you want to modify in the format:
+    // {
+    //     "structure": "namespace:structure_name",
+    //     "factor": number
+    // },
+    // where "structure" is a structure_set or the name of a structure
+    // /!\ if you put the name of a structure, all structures in its set will be modified
+    // (example : "minecraft:village_plains" will modify all structures in the "villages" set)
+    // see https://minecraft.wiki/w/Tutorials/Custom_structures#Structure_Set for more info
+    //
+    // tip : you can dump all structure sets in a file by running the custom command /dumpstructuresets
+    // tip : the same spread factors rules apply here
+    // example of the mansion being doubled in rarity (the mod's default)
+    {
+      "structure": "betterarcheology:buried_ruins_sand",
+      "factor": 2
+    },
+    {
+      "structure": "betterarcheology:mesa_ruins",
+      "factor": 2
+    },
+    {
+      "structure": "minecraft:ocean_ruin_cold",
+      "factor": 2
+    },
+    {
+      "structure": "minecraft:ocean_ruin_warm",
+      "factor": 2
+    },
+    {
+      "structure": "betterarcheology:ruins_sand",
+      "factor": 2
+    },
+    {
+      "structure": "minecraft:shipwreck",
+      "factor": 2
+    },
+    {
+      "structure": "minecraft:shipwreck_beached",
+      "factor": 2
+    },
+    {
+      "structure": "aquamirae:ship",
+      "factor": 2
+    },
+    {
+      "structure": "ad_astra:mars_temple",
+      "factor": 2
+    },
+    {
+      "structure": "betterarcheology:light_temple",
+      "factor": 2
+    },
+    {
+      "structure": "betterarcheology:temple_jungle",
+      "factor": 2
+    },
+    {
+      "structure": "betterdeserttemples:desert_temple",
+      "factor": 2
+    },
+    {
+      "structure": "betterjungletemples:jungle_temple",
+      "factor": 2
+    },
+    {
+      "structure": "ati_structures:ancient_temple",
+      "factor": 2
+    },
+    {
+      "structure": "ati_structures:fortified_temple",
+      "factor": 2
+    },
+    {
+      "structure": "ati_structures:rotting_temple",
+      "factor": 2
+    },
+    {
+      "structure": "ati_structures:haunted_ruin",
+      "factor": 2
+    },
+    {
+      "structure": "ati_structures:ruined_castle",
+      "factor": 2
+    },
+    {
+      "structure": "integrated_villages:cabin_village",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:kutcha_village",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:marketstead_village",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:mediterranean_village",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:mossy_mounds",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:oasis_village",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:pirate_village",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:quark/minka_village",
+      "factor": 3
+    },
+    {
+      "structure": "integrated_villages:tavern_village",
+      "factor": 3
+    },
+    {
+      "structure": "minecraft:mansion",
+      "factor": 3
+    },
+    {
+      "structure": "amethyst_imbuement:witch_house",
+      "factor": 3
+    },
+    {
+      "structure": "profundis:mushroom_house",
+      "factor": 3
+    },
+    {
+      "structure": "illagerinvasion:firecaller_hut",
+      "factor": 3
+    },
+    {
+      "structure": "illagerinvasion:sorcerer_hut",
+      "factor": 3
+    },
+    {
+      "structure": "minecraft:swamp_hut",
+      "factor": 3
+    },
+    {
+      "structure": "verdantvibes:oak_overgrown_hut",
+      "factor": 3
+    },
+    {
+      "structure": "verdantvibes:spruce_overgrown_hut",
+      "factor": 3
+    },
+    {
+      "structure": "friendsandfoes:iceologer_cabin",
+      "factor": 3
+    },
+    {
+      "structure": "profundis:cabin",
+      "factor": 3
+    },
+    {
+      "structure": "friendsandfoes:illusioner_shack",
+      "factor": 3
+    },
+    {
+      "structure": "minecraft:village_desert",
+      "factor": 3
+    },
+    {
+      "structure": "minecraft:village_plains",
+      "factor": 3
+    },
+    {
+      "structure": "minecraft:village_savanna",
+      "factor": 3
+    },
+    {
+      "structure": "minecraft:village_snowy",
+      "factor": 3
+    },
+    {
+      "structure": "minecraft:village_taiga",
+      "factor": 3
+    },
+    {
+      "structure": "natures_spirit:village_adobe",
+      "factor": 3
+    },
+    {
+      "structure": "natures_spirit:village_coconut",
+      "factor": 3
+    },
+    {
+      "structure": "natures_spirit:village_cypress",
+      "factor": 3
+    },
+    {
+      "structure": "natures_spirit:village_wisteria",
+      "factor": 3
+    },
+    {
+      "structure": "ribbits:ribbit_village",
+      "factor": 3
+    },
+    {
+      "structure": "underground_bunkers:underground_bunker",
+      "factor": 3
+    },
+    {
+      "structure": "ati_structures:gnome_hut",
+      "factor": 3
+    },
+    {
+      "structure": "ati_structures:old_home",
+      "factor": 3
+    },
+    {
+      "structure": "ati_structures:villager_inn",
+      "factor": 3
+    },
+    {
+      "structure": "ati_structures:lighthouse",
+      "factor": 3
+    },
+    {
+      "structure": "ati_structures:manor",
+      "factor": 3
+    },
+    {
+      "structure": "ati_structures:ice_tribe",
+      "factor": 3
+    },
+    {
+      "structure": "ati_structures:nomadic_camp",
+      "factor": 3
+    },
+    {
+      "structure": "betterarcheology:archeologist_camp_grassy",
+      "factor": 3
+    },
+    {
+      "structure": "betterarcheology:archeologist_camp_redsand",
+      "factor": 3
+    },
+    {
+      "structure": "betterarcheology:archeologist_camp_sand",
+      "factor": 3
+    },
+    {
+      "structure": "verdantvibes:palm_campfire",
+      "factor": 3
+    },
+    {
+      "structure": "ati_structures:tavern",
+      "factor": 3
+    },
+    {
+      "structure": "snowyspirit:gingerbread_house",
+      "factor": 5
+    },
+    {
+      "structure": "ae2:meteorite",
+      "factor": 5
+    },
+    {
+      "structure": "illagerinvasion:illusioner_tower",
+      "factor": 5
+    },
+    {
+      "structure": "stoneholm:underground_village",
+      "factor": 5
+    },
+    {
+      "structure": "ati_structures:deepslate_keep",
+      "factor": 5
+    },
+    {
+      "structure": "ati_structures:dojo",
+      "factor": 5
+    },
+    {
+      "structure": "minecraft:ruined_portal",
+      "factor": 5
+    },
+    {
+      "structure": "minecraft:ruined_portal_desert",
+      "factor": 5
+    },
+    {
+      "structure": "minecraft:ruined_portal_jungle",
+      "factor": 5
+    },
+    {
+      "structure": "minecraft:ruined_portal_mountain",
+      "factor": 5
+    },
+    {
+      "structure": "minecraft:ruined_portal_ocean",
+      "factor": 5
+    },
+    {
+      "structure": "minecraft:ruined_portal_swamp",
+      "factor": 5
+    },
+    {
+      "structure": "integrated_villages:airship_village",
+      "factor": 5
+    },
+    {
+      "structure": "iceandfire:pixie_village",
+      "factor": 10
+    },
+    {
+      "structure": "iceandfire:fire_dragon_roost",
+      "factor": 10
+    },
+    {
+      "structure": "iceandfire:ice_dragon_roost",
+      "factor": 10
+    },
+    {
+      "structure": "iceandfire:lightning_dragon_roost",
+      "factor": 10
+    },
+    {
+      "structure": "iceandfire:graveyard",
+      "factor": 10
+    },
+    {
+      "structure": "iceandfire:gorgon_temple",
+      "factor": 10
+    },
+    {
+      "structure": "iceandfire:cyclops_cave",
+      "factor": 10
+    },
+    {
+      "structure": "morelapis:lapis_tree",
+      "factor": 10
+    },
+    {
+      "structure": "morelapis:lapis_tree_small",
+      "factor": 10
+    },
+    {
+      "structure": "iceandfire:myrmex_hive_desert",
+      "factor": 10
+    },
+    {
+      "structure": "iceandfire:myrmex_hive_jungle",
+      "factor": 10
+    },
+    {
+      "structure": "ad_astra:oil_well",
+      "factor": 10
+    },
+    {
+      "structure": "betterarcheology:villager_grave",
+      "factor": 10
+    },
+    {
+      "structure": "integrated_stronghold:stronghold",
+      "factor": 10
+    },
+    {
+      "structure": "morelapis:lapis_hut",
+      "factor": 20
+    }
+  ]
+}

@@ -51,12 +51,21 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "agricraft": {
+    "soil": true,
+    "crop_block": true
+  },
   "jadeaddons": {
     "equipment_requirement": ""
   },
   "exposure": {
     "lightroom": true,
     "photograph_frame": true
+  },
+  "shetiphiancore": {
+    "hud.rgb16": true,
+    "hud": true,
+    "hud.redstone": true
   },
   "twilightforest": {
     "quest_ram_wool": true
