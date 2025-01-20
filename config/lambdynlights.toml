@@ -62,6 +62,7 @@ mode = "fancy"
 				vindicator = true
 				phantom = true
 				minecart = true
+				ender_dragon = true
 				evoker = true
 				glow_squid = true
 				glow_item_frame = false
@@ -107,16 +108,18 @@ mode = "fancy"
 				spider = true
 
 			[light_sources.settings.entities.endermanoverhaul]
-				crimson_forest_enderman = true
 				savanna_enderman = true
 				ice_spikes_enderman = true
-				cave_enderman = true
 				flower_fields_enderman = true
 				desert_enderman = true
-				snowy_enderman = true
 				coral_enderman = true
+				end_enderman = true
+				crimson_forest_enderman = true
+				cave_enderman = true
+				snowy_enderman = true
 				dark_oak_enderman = true
 				scarab = true
+				end_islands_enderman = true
 				badlands_enderman = true
 
 			[light_sources.settings.entities.underground_jungle]
@@ -279,6 +282,13 @@ mode = "fancy"
 			[light_sources.settings.entities.charm]
 				moobloom = true
 				coral_squid = true
+
+			[light_sources.settings.entities.betterend]
+				dragonfly = true
+				cubozoa = true
+				end_slime = true
+				silk_moth = true
+				end_fish = true
 
 			[light_sources.settings.entities.caligo]
 				strow = true

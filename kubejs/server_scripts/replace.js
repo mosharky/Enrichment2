@@ -20,6 +20,8 @@ function replacements(e) {
         e.replaceInput({ output: item }, 'minecraft:glass', 'minecraft:amethyst_shard')
     })
     
+    e.replaceInput({ output: "diamond_apples:diamond_apple" }, 'minecraft:apple', 'witherite:witherite_apple')
+    e.replaceInput({ output: "diamond_apples:enchanted_diamond_apple" }, 'minecraft:diamond', 'minecraft:diamond_block')
 
     // fixing ice and fire inputs
     // e.replaceInput({}, '#c:storage_blocks/silver', '#c:silver_blocks')
